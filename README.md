@@ -1,6 +1,6 @@
 # EmoDetect Web App
 
-##Overview:<br/>
+## Overview:<br/>
 This is a Flask-based web application that detects emotions from an uploaded facial image and plays music based on the detected emotion using Spotify. The app uses a deep learning model (SuccessModel1) for facial emotion classification and integrates Spotify to suggest and play songs accordingly.
 
 Features:
