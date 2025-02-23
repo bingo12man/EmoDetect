@@ -55,28 +55,6 @@ Ensure you have the following installed:
 
 + The detected emotion is displayed as a response.
 
-## File Structure:
-
-/emotion-detection-app
-
-│── server.py          # Flask application
-
-│── emdetect.py        # Emotion detection logic
-
-│── static/            # Static assets (CSS, JS, Images)
-
-│── templates/
-
-    ├── home.html      # Frontend template
-
-│── haarcascade_frontalface_alt.xml  # Face detection model
-
-│── SuccessModel1/     # Pre-trained emotion detection model
-
-│── requirements.txt   # Python dependencies
-
-│── README.md          # Project documentation
-
 ## Screenshots:
 
 <img width="1470" alt="Screen Shot 2023-04-01 at 5 12 17 PM" src="https://github.com/user-attachments/assets/5cc96647-7551-4b36-ba46-0e838c72ce2c" />
