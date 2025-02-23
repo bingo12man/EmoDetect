@@ -67,7 +67,7 @@ Ensure you have the following installed:
 
 │── templates/
 
-│   ├── home.html      # Frontend template
+    ├── home.html      # Frontend template
 
 │── haarcascade_frontalface_alt.xml  # Face detection model
 
