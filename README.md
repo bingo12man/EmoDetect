@@ -3,6 +3,7 @@ EmoDetect Web App
 Overview:This is a Flask-based web application that detects emotions from an uploaded facial image and plays music based on the detected emotion using Spotify. The app uses a deep learning model (SuccessModel1) for facial emotion classification and integrates Spotify to suggest and play songs accordingly.
 
 Features:
+
 ✅ Upload an image to detect facial emotions
 
 ✅ Uses a deep learning model for classification
@@ -14,40 +15,65 @@ Features:
 ✅ Implements OpenCV for face detection
 
 Technologies Used:
+
 1)Python
+
 2)Flask
+
 3)OpenCV (for face detection)
+
 4)TensorFlow/Keras (for deep learning model)
+
 5)Spotify API (for music playback)
+
 6)HTML, CSS, JavaScript (for frontend)
 
 Prerequisites:
+
 Ensure you have the following installed:
+
 1)Python 3.x
+
 2)Flask
+
 3)OpenCV (cv2)
+
 4)TensorFlow/Keras
+
 5)NumPy
+
 6)Spotify API credentials (Client ID & Secret)
 
 Usage:
 
 Click the upload button to select an image.
+
 The image is sent to the backend for processing.
+
 The application detects a face and classifies the emotion.
+
 The detected emotion is displayed as a response.
 
 File Structure:
 
 /emotion-detection-app
+
 │── server.py          # Flask application
+
 │── emdetect.py        # Emotion detection logic
+
 │── static/            # Static assets (CSS, JS, Images)
+
 │── templates/
+
 │   ├── home.html      # Frontend template
+
 │── haarcascade_frontalface_alt.xml  # Face detection model
+
 │── SuccessModel1/     # Pre-trained emotion detection model
+
 │── requirements.txt   # Python dependencies
+
 │── README.md          # Project documentation
 
 Screenshots:
@@ -60,6 +86,9 @@ Screenshots:
 
 
 Future Enhancements:
+
 Improve model accuracy with a larger dataset
+
 Extend to real-time emotion detection using a webcam
+
 Deploy the application on a cloud platform
