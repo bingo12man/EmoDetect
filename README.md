@@ -15,47 +15,47 @@ This is a Flask-based web application that detects emotions from an uploaded fac
 
 ✅ Implements OpenCV for face detection
 
-Technologies Used:
+## Technologies Used:
 
-1)Python
+1. Python
 
-2)Flask
+2. Flask
 
-3)OpenCV (for face detection)
+3. OpenCV (for face detection)
 
-4)TensorFlow/Keras (for deep learning model)
+4. TensorFlow/Keras (for deep learning model)
 
-5)Spotify API (for music playback)
+5. Spotify API (for music playback)
 
-6)HTML, CSS, JavaScript (for frontend)
+6. HTML, CSS, JavaScript (for frontend)
 
-Prerequisites:
+## Prerequisites:
 
 Ensure you have the following installed:
 
-1)Python 3.x
+- Python 3.x
 
-2)Flask
+- Flask
 
-3)OpenCV (cv2)
+- OpenCV (cv2)
+  
+- TensorFlow/Keras
 
-4)TensorFlow/Keras
+- NumPy
 
-5)NumPy
+- Spotify API credentials (Client ID & Secret)
 
-6)Spotify API credentials (Client ID & Secret)
+## Usage:
 
-Usage:
++ Click the upload button to select an image.
 
-Click the upload button to select an image.
++ The image is sent to the backend for processing.
 
-The image is sent to the backend for processing.
++ The application detects a face and classifies the emotion.
 
-The application detects a face and classifies the emotion.
++ The detected emotion is displayed as a response.
 
-The detected emotion is displayed as a response.
-
-File Structure:
+## File Structure:
 
 /emotion-detection-app
 
@@ -77,7 +77,7 @@ File Structure:
 
 │── README.md          # Project documentation
 
-Screenshots:
+## Screenshots:
 
 <img width="1470" alt="Screen Shot 2023-04-01 at 5 12 17 PM" src="https://github.com/user-attachments/assets/5cc96647-7551-4b36-ba46-0e838c72ce2c" />
 <img width="1470" alt="Screen Shot 2023-04-01 at 5 10 50 PM" src="https://github.com/user-attachments/assets/d52cc0d5-4fbd-4261-87a7-163c13df8576" />
@@ -87,10 +87,10 @@ Screenshots:
 
 
 
-Future Enhancements:
+## Future Enhancements:
 
-Improve model accuracy with a larger dataset
++ Improve model accuracy with a larger dataset
 
-Extend to real-time emotion detection using a webcam
++ Extend to real-time emotion detection using a webcam
 
-Deploy the application on a cloud platform
++ Deploy the application on a cloud platform
