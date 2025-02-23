@@ -57,10 +57,10 @@ Ensure you have the following installed:
 
 ## Screenshots:
 
-<img width="1470" alt="Screen Shot 2023-04-01 at 5 12 17 PM" src="https://github.com/user-attachments/assets/5cc96647-7551-4b36-ba46-0e838c72ce2c" />
-<img width="1470" alt="Screen Shot 2023-04-01 at 5 10 50 PM" src="https://github.com/user-attachments/assets/d52cc0d5-4fbd-4261-87a7-163c13df8576" />
-<img width="1470" alt="Screen Shot 2023-04-01 at 5 10 43 PM" src="https://github.com/user-attachments/assets/cf99467b-717b-49d2-88bf-3a828e94a2b6" />
-<img width="1470" alt="Screen Shot 2023-04-01 at 5 09 48 PM" src="https://github.com/user-attachments/assets/656a93ff-89cb-4b58-85d0-edc06551d675" />
+<img width="1470" alt="Screen Shot 2023-04-01 at 5 12 17 PM" src="https://github.com/user-attachments/assets/5cc96647-7551-4b36-ba46-0e838c72ce2c" /><br/>
+<img width="1470" alt="Screen Shot 2023-04-01 at 5 10 50 PM" src="https://github.com/user-attachments/assets/d52cc0d5-4fbd-4261-87a7-163c13df8576" /><br/>
+<img width="1470" alt="Screen Shot 2023-04-01 at 5 10 43 PM" src="https://github.com/user-attachments/assets/cf99467b-717b-49d2-88bf-3a828e94a2b6" /><br/>
+<img width="1470" alt="Screen Shot 2023-04-01 at 5 09 48 PM" src="https://github.com/user-attachments/assets/656a93ff-89cb-4b58-85d0-edc06551d675" /><br/>
 <img width="1470" alt="Screen Shot 2023-04-01 at 5 09 40 PM" src="https://github.com/user-attachments/assets/e23e55da-042e-4de7-a14b-d0f15e492b33" />
 
 
