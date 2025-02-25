@@ -75,4 +75,4 @@ Ensure you have the following installed:
 
 + Extend to real-time emotion detection using a webcam
 
-+ Deploy the application on a cloud platform
++ Deploy the application on a cloud platform 
